@@ -1,0 +1,5 @@
+:root { --brand: #ff3ea5; }
+body { font-family: system-ui, sans-serif; margin: 0; padding: 48px; }
+h1 { color: var(--brand); font-size: clamp(28px, 6vw, 56px); margin: 0 0 16px; }
+p.lead { font-size: 1.2rem; opacity: 0.8; }
+a { text-decoration: none; }
